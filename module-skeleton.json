@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sandbox-and-release-management-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-sandbox-and-release-management",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-sandbox-and-release-management-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/sandbox-and-release-management.md",
+  "presentationPlan": "projects/crm/nuxt/sandbox-and-release-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
